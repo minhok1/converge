@@ -1,0 +1,16 @@
+---
+description: Project guidelines covering coding, frontend, backend, security, and application standards
+alwaysApply: true
+---
+
+# Project Guidelines
+
+Always refer to the relevant guideline files in `guidelines/` before making changes. Don't limit to one — cross-reference as needed.
+
+- **coding.md** — general coding practices (always apply)
+- **application.md** — application-specific rules (always apply)
+- **frontend.md** — React structure, styling (shadcn/ui, Tailwind), UX (apply for frontend tasks)
+- **backend.md** — Prisma, services, transactions (apply for backend tasks)
+- **security.md** — OWASP, input sanitisation, no console.log (apply whenever touching user-facing or data logic)
+
+When doing a **code review**, put ✅/❌ next to each guideline item and output a full report.

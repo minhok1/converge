@@ -17,7 +17,7 @@
 ## Styling
 
 - For readability, always use tailwind CSS for basic styling such as padding, margin, flex, etc. If tailwind class names get too complicated and long for complex styling (e.g. very complex animations), you may use custom .scss files
-- Refer to Figma design and try to replicate the design when prompted to. Note that Figma code is often convoluted and hard to understand, so just refer to it to copy over the styles but not the entire code itself
+- Use shadcn/ui UI design pattern for the modern, aesthetic and simple UI.
 - Keep colours and designs that continue to occur in the central DesignSystems
 - Lucide-react icons should be the standard icons
 - Responsive design should be implemented for largely 3 designs: mobile, tablet and web.

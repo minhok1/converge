@@ -13,6 +13,7 @@
 - For any logic that may get repeated, separate that into custom hooks
 - Calls to endpoints should be written with React Query, and should be stored in different service files in the services folder
 - There should be an apiClient.ts file that intercepts calls and fills it with auth token, headers, or anything else that the calls have to go through before making it to the API.
+- Text should be stored in en.json file, then used in the actual components and pages with translation pipes
 
 ## Styling
 

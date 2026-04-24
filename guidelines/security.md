@@ -1,4 +1,6 @@
 ## Security
 
-- User input should be sanitised to prevent injection attacks
-- Check the application for OWASP vulnerabilities
+- User input on the frontend should be sanitised to prevent injection attacks
+- Check the application against the OWASP top 10 standards and identify areas of vulnerability
+- Query should always be parametrised on the backend to prevent injection attacks
+- Refrain from using console.log in the code. This may expose sensitive information

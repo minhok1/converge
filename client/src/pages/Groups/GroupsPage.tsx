@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { Plus } from 'lucide-react'
-import { Button } from '@/components/ui/button'
+import { Button } from '@/Shared/Button/Button'
 import type { Group } from '@/types'
 import { getGroups, createGroup } from '@/services/groups.service'
 import GroupCard from './components/GroupCard'

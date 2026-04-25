@@ -1,5 +1,5 @@
 import { ChevronRight, BookOpen, Users } from 'lucide-react'
-import { Badge } from '@/components/ui/badge'
+import { Badge } from '@/Shared/Badge/Badge'
 import type { Session } from '@/types'
 
 interface Props {

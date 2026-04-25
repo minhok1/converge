@@ -1,5 +1,5 @@
 import { ChevronRight } from 'lucide-react'
-import { Badge } from '@/components/ui/badge'
+import { Badge } from '@/Shared/Badge/Badge'
 import type { Book } from '@/types'
 
 interface Props {

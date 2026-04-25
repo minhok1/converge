@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Copy, Check } from 'lucide-react'
-import { Button } from '@/components/ui/button'
-import { Input } from '@/components/ui/input'
+import { Button } from '@/Shared/Button/Button'
+import { Input } from '@/Shared/Input/Input'
 
 interface Props {
   inviteLink: string

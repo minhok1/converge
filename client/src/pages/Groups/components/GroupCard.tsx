@@ -1,5 +1,5 @@
 import { ChevronRight, Users } from 'lucide-react'
-import { Badge } from '@/components/ui/badge'
+import { Badge } from '@/Shared/Badge/Badge'
 
 interface Group {
   id: string

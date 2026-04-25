@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
-import { Avatar, AvatarFallback } from '@/components/ui/avatar'
-import { Button } from '@/components/ui/button'
+import { Avatar, AvatarFallback } from '@/Shared/Avatar/Avatar'
+import { Button } from '@/Shared/Button/Button'
 import { Plus } from 'lucide-react'
 import type { UserProfile } from '@/types'
 import { getProfile } from '@/services/profile.service'

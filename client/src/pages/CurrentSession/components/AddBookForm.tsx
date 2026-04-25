@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import { Input } from '@/components/ui/input'
-import { Button } from '@/components/ui/button'
+import { Input } from '@/Shared/Input/Input'
+import { Button } from '@/Shared/Button/Button'
 import { Plus } from 'lucide-react'
 
 interface Props {

@@ -3,3 +3,7 @@
 - Getting started on this! I want to make an extremely customizable group management app that encompasses everything about a group - ELO (if it's competitive), polls for deciding what to do next (if it's a book club/board game/etc), ratings, etc. I already made a weighted poll app that allows users to change group settings, but this app will be a LOT more than just that. It should have a bunch of options for weighted and unweighted polls for deciding what to do, group announcements, group gather location and push alerts for time, group settings for competitive/non-competitive, ELO ratings (calculated from inputted results every time) if competitive, user comments and ratings for each session, information for each item or session (each book, board game, etc), etc. I just find it extremely frustrating that every hobby has its own group management apps so it would cost me so much to subscribe to all of them every month
 - Working on the AI guidelines
 - AI guidelines complete for now
+
+## 25 Apr 2026
+
+- Rough user flow complete - next time, finalise this, come up with the DB schema, put out the API and change the UI

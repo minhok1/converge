@@ -1,3 +1,8 @@
+---
+description: Security guidelines based on OWASP standards. Apply whenever touching user-facing logic, input handling, authentication, database queries, or any data that flows between client and server.
+applyTo: "**"
+---
+
 ## Security
 
 - User input on the frontend should be sanitised to prevent injection attacks

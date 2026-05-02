@@ -1,3 +1,8 @@
+---
+description: Behavioral guidelines for frontend code. Apply when writing, reviewing, or refactoring React components, pages, styling, or UX interactions.
+applyTo: "client/src/**"
+---
+
 ## React
 
 - For frequent calculations, use useMemo to optimise the frontend code

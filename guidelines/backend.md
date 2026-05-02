@@ -1,3 +1,8 @@
+---
+description: Behavioral guidelines for backend code. Apply when writing, reviewing, or refactoring API routes, service files, database queries, or any server-side logic.
+applyTo: "server/**"
+---
+
 ## Backend
 
 - Use Prisma for query building instead of large strings

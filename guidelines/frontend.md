@@ -31,3 +31,4 @@ applyTo: "client/src/**"
 ## User experience
 
 - Irreversible actions need user confirmation modal instead of going ahead with the action
+- There should be correct aria label for accessibility

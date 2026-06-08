@@ -32,3 +32,10 @@ applyTo: "client/src/**"
 
 - Irreversible actions need user confirmation modal instead of going ahead with the action
 - There should be correct aria label for accessibility
+
+## Figma source of truth
+
+- Primary design reference for UI implementation: https://www.figma.com/make/FFeCGs6FuFTNATIvwlkyrg/Converge
+- For frontend implementation tasks, align layout, spacing, typography, color, and interaction behavior to the Figma design first.
+- Reuse existing app components, tokens, and design system patterns where possible instead of introducing one-off styles.
+- If exact parity is not feasible due to framework/component constraints, preserve user-facing intent (information hierarchy, interaction flow, accessibility), and explain the deviation in the chat.

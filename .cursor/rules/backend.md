@@ -1,6 +1,6 @@
 ---
 description: Behavioral guidelines for backend code. Apply when writing, reviewing, or refactoring API routes, service files, database queries, or any server-side logic.
-applyTo: "server/**"
+applyTo: "api/**"
 ---
 
 ## Querying

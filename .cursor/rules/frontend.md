@@ -36,6 +36,6 @@ applyTo: "client/src/**"
 ## Figma source of truth
 
 - Primary design reference for UI implementation: https://www.figma.com/make/FFeCGs6FuFTNATIvwlkyrg/Converge
-- For frontend implementation tasks, align layout, spacing, typography, color, and interaction behavior to the Figma design first.
+- For frontend implementation tasks, align layout, spacing, typography, color, and interaction behavior to the Figma design first. Remember that the tools and design choices outlined in "Styling" should always be enforced. If the Figma design's UI coded uses different libraries, recreate the design with the libraries used for this application.
 - Reuse existing app components, tokens, and design system patterns where possible instead of introducing one-off styles.
 - If exact parity is not feasible due to framework/component constraints, preserve user-facing intent (information hierarchy, interaction flow, accessibility), and explain the deviation in the chat.

@@ -1,0 +1,52 @@
+{
+  "tabs": {
+    "home": "Home",
+    "myGroups": "My Groups",
+    "profile": "Profile",
+    "adventures": "Adventures"
+  },
+  "home": {
+    "subtitle": "Discover",
+    "title": "Find your group",
+    "searchPlaceholder": "Search groups, topics...",
+    "searchAccessibilityLabel": "Search groups",
+    "filters": "All|Books|Board Games|Near Me|Popular",
+    "recommendedTitle": "Recommended for you",
+    "trendingTitle": "Trending",
+    "joinButton": "Join"
+  },
+  "myGroups": {
+    "subtitle": "Your clubs",
+    "title": "My Groups",
+    "createButton": "Create a new group",
+    "fallbackSessionName": "Current Session",
+    "phaseBrainstorming": "brainstorming",
+    "phaseVoting": "voting",
+    "phaseResults": "results"
+  },
+  "profile": {
+    "subtitle": "Your account",
+    "title": "Profile",
+    "emailPlaceholder": "you@example.com",
+    "statsGroups": "Groups",
+    "statsSessions": "Sessions",
+    "statsWins": "Wins",
+    "menuNotifications": "Notifications",
+    "menuPrivacy": "Privacy",
+    "menuAppearance": "Appearance",
+    "weightsTitle": "Your Weights",
+    "inviteTitle": "Invite Members",
+    "inviteDescription": "Share this link to invite new members to the group.",
+    "copyButton": "Copy",
+    "copiedButton": "Copied!",
+    "startSessionButton": "Start New Session",
+    "copiedTitle": "Copied",
+    "copiedDescription": "Invite link copied to clipboard."
+  },
+  "adventures": {
+    "subtitle": "Explore",
+    "title": "Adventures",
+    "comingSoonTitle": "Coming Soon",
+    "comingSoonDescription": "Challenges, streaks, badges and more gamification features are on the way."
+  }
+}

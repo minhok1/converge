@@ -17,3 +17,7 @@
 - Different idea: Ship crew
   - Engaging in activities give your character more of that trait - e.g. +1 knowledge from books, +1 cunning from board games, +1 fit from tennis or running, etc. Give several parameters - Knowledge, cunning, fit, stamina, speed, creative, etc. Then, add several "positions" of the crew where characters of that particular type are more likely to do well. Then, allow them to go on adventures or engage in battles. Going on adventures of different types may give you random awards (premium subscription coupons for the app, different items for the character, etc). Battles put your crew against a random enemy and you're battling to take each other's gold. This should all be pixelated.
   - This can easily be implemented with very little work using PixiJS embedded in React, but create the rest of the app first
+
+## 8 Jun 2026
+
+- Initial UI with mock data set up
